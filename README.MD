@@ -34,7 +34,7 @@ The ***The Return Century From Year***,  is a *Responsive Page* that uses algori
 
 ## 🔖 Layout
 
-You can view the project layout in the format via [this link](<https://codepen.io/leonardoj02/pen/QWyyzje>).
+You can view the project layout in the format via [this link](<https://codepen.io/leonardoj02/pen/gOaJVae>).
 
 ## 🤔 How contribute
 
