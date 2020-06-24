@@ -16,7 +16,7 @@
 ## :heavy_check_mark: :computer: Web Result
 
 <h1 align="center">
-    <img alt="Web" src="./web.gif" width="900px">
+    <img alt="Web" src="./web.gif">
 </h1>
 
 ## 🚀 Technologies
