@@ -30,7 +30,7 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 
-The ***The Return Century From Year***,  is a *Responsive Page* that uses algorithms, to transform the input.value to the Century. Using **math** in **Javascript** can calculate the Century of any Year. The Project purpose is train **Algorithm**, **Programming Logic** and **Javascript Patterns**, this is made with **HTML**, **CSS** and **Javascript**.
+The ***The Return Century From Year***,  is a *Responsive Page* that uses algorithms, to transform the *input.value* to a *Century*. Using **math** in **Javascript** can calculate the Century of any Year. The Project purpose is train **Algorithm**, **Programming Logic** and **Javascript Patterns**, this is made with **HTML**, **CSS** and **Javascript**.
 
 ## 🔖 Layout
 
